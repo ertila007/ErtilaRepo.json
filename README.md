@@ -14,6 +14,6 @@ Uso:
 * Vá ao seu programa Hydra, clique em "Ajustes"
 * Na aba "Fontes de Download", adicione esta fonte e seja feliz :-)
 
-Nota: Uma vez que o DataNodes tiver a função de Torrents, aquele será o lugar em que os magnet links serão preferencialmente pegos. Recomenda-se o Torrent Galaxy para fonte primária.
+Nota: Uma vez que o DataNodes tiver a função de Torrents, aquele será o lugar em que os magnet links serão preferencialmente pegos. Recomenda-se, neste primeiro momento, o Torrent Galaxy para fonte primária.
 Note2: For non-native portuguese speakers, ChatGPT and DeepL are your friends :-)
 
