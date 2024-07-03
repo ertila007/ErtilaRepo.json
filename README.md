@@ -14,4 +14,6 @@ Uso:
 * Vá ao seu programa Hydra, clique em "Ajustes"
 * Na aba "Fontes de Download", adicione esta fonte e seja feliz :-)
 
-Note: For non-native portuguese speakers, ChatGPT and DeepL are your friends :-)
+Nota: Uma vez que o DataNodes tiver a função de Torrents, aquela será a fonte principal.
+Note2: For non-native portuguese speakers, ChatGPT and DeepL are your friends :-)
+
