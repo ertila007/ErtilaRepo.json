@@ -7,3 +7,11 @@ Concebido para completar alguns jogos faltantes em outras fontes e pegar, na med
 Criado com a ajuda da ferramenta de WebDev do Naitto listada em:
 
 https://managerhydra.000webhostapp.com/
+
+Uso:
+
+* Copie ou baixe o arquivo ErtilaRepo.json
+* Vá ao seu programa Hydra, clique em "Ajustes"
+* Na aba "Fontes de Download", adicione esta fonte e seja feliz :-)
+
+Note: For non-native portuguese speakers, ChatGPT and DeepL are your friends :-)
