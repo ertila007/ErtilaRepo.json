@@ -4,7 +4,7 @@ https://github.com/hydralauncher/hydra
 
 Concebido para completar alguns jogos faltantes em outras fontes e pegar, na medida do possível, jogos portáteis para a galera do Steam Deck, Rog Ally e Zeenix, uma vez que este último sair.
 
-Criado com a ajuda da ferramenta de WebDev do Naitto listada em:
+Criado com a ajuda da ferramenta de WebDev do Naittan listada em:
 
 https://managerhydra.000webhostapp.com/
 
@@ -14,6 +14,6 @@ Uso:
 * Vá ao seu programa Hydra, clique em "Ajustes"
 * Na aba "Fontes de Download", adicione esta fonte e seja feliz :-)
 
-Nota: Uma vez que o DataNodes tiver a função de Torrents, aquela será a fonte principal.
+Nota: Uma vez que o DataNodes tiver a função de Torrents, aquele será o lugar em que os magnet links serão preferencialmente pegos. Recomenda-se o Torrent Galaxy para fonte primária.
 Note2: For non-native portuguese speakers, ChatGPT and DeepL are your friends :-)
 
