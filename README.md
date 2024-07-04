@@ -6,7 +6,7 @@ Concebido para completar alguns jogos faltantes em outras fontes e pegar, na med
 
 Criado com a ajuda da ferramenta de WebDev do Naittan listada em:
 
-https://managerhydra.000webhostapp.com/
+https://naitangs.github.io/HydraListManager/
 
 Uso:
 
