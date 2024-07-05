@@ -10,9 +10,15 @@ https://naitangs.github.io/HydraListManager/
 
 Uso:
 
-* Copie ou baixe o arquivo ErtilaRepo.json
+* Clique no arquivo "ErtilaRepo.json", neste site;
+* Uma vez aberto, clique onde estiver escrito "Raw"
+* Copie o link que estiver na barra de navegação do seu Navegador de Internet de preferência
 * Vá ao seu programa Hydra, clique em "Ajustes"
-* Na aba "Fontes de Download", adicione esta fonte e seja feliz :-)
+* Vá até a aba "Fontes de Download",
+* Cole o link anteriormente citado;
+* Clique em "validar" fonte
+* Espere um pouco pela sincronização
+* Seja feliz :-)
 
 Observações:
 
