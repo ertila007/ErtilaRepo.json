@@ -15,6 +15,7 @@ Uso:
 * Copie o link que estiver na barra de navegação do seu Navegador de Internet de preferência
 * Vá ao seu programa Hydra, clique em "Ajustes"
 * Vá até a aba "Fontes de Download",
+* Clique em "Adicionar Fonte" 
 * Cole o link anteriormente citado;
 * Clique em "validar" fonte
 * Espere um pouco pela sincronização
