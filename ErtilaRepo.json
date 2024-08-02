@@ -2,14 +2,6 @@
   "name": "Ertilado",
   "downloads": [
     {
-      "title": "Chained Echoes v1.322-TENOKE",
-      "uris": [
-        "magnet:?xt=urn:btih:805bd3183b79a55fefde97ee2bb72ee5bce01911&dn=Chained.Echoes.v1.322-TENOKE&tr=udp://tracker.torrent.eu.org:451/announce&tr=udp://exodus.desync.com:6969/announce&tr=udp://tracker.moeking.me:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.theoks.net:6969/announce&tr=udp://movies.zsw.ca:6969/announce&tr=udp://tracker-udp.gbitt.info:80/announce&tr=udp://tracker.tiny-vps.com:6969/announce&tr=http://tracker.gbitt.info:80/announce&tr=http://tracker.ccp.ovh:6969/announce&tr=https://tracker.gbitt.info:443/announce&tr=udp://tracker.dler.com:6969/announce&tr=udp://tracker.ccp.ovh:6969/announce&tr=http://tracker.bt4g.com:2095/announce"
-      ],
-      "uploadDate": "2023-12-17T00:03:00.000Z",
-      "fileSize": "1.19 GB"
-    },
-    {
       "title": "BIOMUTANT v1.7.0 & ALL DLC",
       "uris": [
         "magnet:?xt=urn:btih:70b34059fd7e8457045909f27c91a0bf305e4723&dn=biomutant-1.7.0-all-dlc&tr=udp://tracker.cyberia.is:6969/announce&tr=udp://tracker.port443.xyz:6969/announce&tr=http://tracker3.itzmx.com:6961/announce&tr=udp://tracker.moeking.me:6969/announce&tr=http://vps02.net.orel.ru:80/announce&tr=http://tracker.openzim.org:80/announce&tr=udp://tracker.skynetcloud.tk:6969/announce&tr=https://1.tracker.eu.org:443/announce&tr=https://3.tracker.eu.org:443/announce&tr=http://re-tracker.uz:80/announce&tr=https://tracker.parrotsec.org:443/announce&tr=udp://explodie.org:6969/announce&tr=udp://tracker.filemail.com:6969/announce&tr=udp://tracker.nyaa.uk:6969/announce&tr=udp://retracker.netbynet.ru:2710/announce&tr=http://tracker.gbitt.info:80/announce&tr=http://tracker2.dler.org:80/announce"
@@ -1162,14 +1154,6 @@
       "fileSize": "26.22 GB"
     },
     {
-      "title": "Settlement Survival v1.1.122.91",
-      "uris": [
-        "magnet:?xt=urn:btih:868e4806f1b5c415ae4fb35a93bef7869b5147b5&dn=Settlement Survival v1.1.122.91&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.birkenwald.de%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce"
-      ],
-      "uploadDate": "2024-07-15T21:56:00.000Z",
-      "fileSize": "974.01 MB"
-    },
-    {
       "title": "Hot Lap Racing-TENOKE",
       "uris": [
         "magnet:?xt=urn:btih:b492bbb594942cda08abbf2a8c017aab5b41b01d&dn=Hot Lap Racing-TENOKE&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.birkenwald.de%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce"
@@ -1416,6 +1400,22 @@
       ],
       "uploadDate": "2024-07-27T13:31:00.000Z",
       "fileSize": "28.96 MB"
+    },
+    {
+      "title": "Settlement Survival v1.1.128.94",
+      "uris": [
+        "magnet:?xt=urn:btih:2b105278cb24b8aab0a106de7eb09ad142ac1c19&dn=Settlement Survival v1.1.128.94&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.birkenwald.de%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce"
+      ],
+      "uploadDate": "2024-08-02T08:43:00.000Z",
+      "fileSize": "973.99 MB"
+    },
+    {
+      "title": "Chained Echoes Build 12475207",
+      "uris": [
+        "magnet:?xt=urn:btih:2b105278cb24b8aab0a106de7eb09ad142ac1c19&dn=Settlement Survival v1.1.128.94&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.birkenwald.de%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce"
+      ],
+      "uploadDate": "2023-10-26T06:35:00.000Z",
+      "fileSize": "571.81 MB"
     }
   ]
 }
