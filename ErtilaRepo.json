@@ -954,14 +954,6 @@
       "fileSize": "76.83 GB"
     },
     {
-      "title": "Coral Island v1-184",
-      "uris": [
-        "magnet:?xt=urn:btih:d2da345a106d33b3cc0508ba3f470eb4f9f53e77&dn=Coral Island v1-184&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.birkenwald.de%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce"
-      ],
-      "uploadDate": "2023-12-10T17:38:00.000Z",
-      "fileSize": "8.36 GB"
-    },
-    {
       "title": "Interstellar Space: Genesis v1.6.2",
       "uris": [
         "magnet:?xt=urn:btih:6f5d967be87512f6e89a4779dc4dedd1fd2204ad&dn=Interstellar Space: Genesis v1.6.2&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.birkenwald.de%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce"
@@ -1104,14 +1096,6 @@
       ],
       "uploadDate": "2024-07-12T22:14:00.000Z",
       "fileSize": "327.59 MB"
-    },
-    {
-      "title": "Last Epoch v1.1.1.2",
-      "uris": [
-        "magnet:?xt=urn:btih:63fab8836237e9f3c127743f41eb824cebc59e90&dn=Last Epoch v1.1.1.2&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.birkenwald.de%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce"
-      ],
-      "uploadDate": "2024-07-15T06:58:00.000Z",
-      "fileSize": "14.4 GB"
     },
     {
       "title": "Nova Drift v0.36.14.1",
@@ -1464,6 +1448,38 @@
       ],
       "uploadDate": "2024-08-07T05:38:00.000Z",
       "fileSize": "19.36 GB"
+    },
+    {
+      "title": "Coral Island v1.1-1223",
+      "uris": [
+        "magnet:?xt=urn:btih:487b0d84b8a0f853c2994d334f683ad7529bb677&dn=Coral Island v1.1-1223&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.birkenwald.de%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce"
+      ],
+      "uploadDate": "2024-08-08T12:56:00.000Z",
+      "fileSize": "10.07 GB"
+    },
+    {
+      "title": "Last Epoch v1.1.4.0",
+      "uris": [
+        "magnet:?xt=urn:btih:cc48dbc6316921db72c2975959795971431287c1&dn=Last Epoch v1.1.4.0&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.birkenwald.de%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce"
+      ],
+      "uploadDate": "2024-08-08T12:57:00.000Z",
+      "fileSize": "14.41 GB"
+    },
+    {
+      "title": "Deathbound - FLT",
+      "uris": [
+        "magnet:?xt=urn:btih:b50855da26eb93e11d55b08a8dfa3abd04c24c0b&dn=Deathbound-FLT&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.birkenwald.de%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce"
+      ],
+      "uploadDate": "2024-08-08T13:54:00.000Z",
+      "fileSize": "7.54 GB"
+    },
+    {
+      "title": "SteamWorld Heist II - TENOKE",
+      "uris": [
+        "magnet:?xt=urn:btih:692a22c064336def0b8e76a463faf171d4164930&dn=SteamWorld Heist II-TENOKE&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.birkenwald.de%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce"
+      ],
+      "uploadDate": "2024-08-08T14:17:00.000Z",
+      "fileSize": "4.67 GB"
     }
   ]
 }
