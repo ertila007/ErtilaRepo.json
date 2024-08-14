@@ -1504,6 +1504,14 @@
       ],
       "uploadDate": "2024-08-13T08:11:00.000Z",
       "fileSize": "1020.63 MB"
+    },
+    {
+      "title": "Relic Space v1.32",
+      "uris": [
+        "magnet:?xt=urn:btih:01f9e5d1da0c4211f1296651335f58453942186d&dn=Relic Space v1.32&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.birkenwald.de%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce"
+      ],
+      "uploadDate": "2023-10-24T16:45:00.000Z",
+      "fileSize": "680.44 MB"
     }
   ]
 }
