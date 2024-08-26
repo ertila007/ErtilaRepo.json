@@ -311,7 +311,7 @@
         "magnet:?xt=urn:btih:0e4794c659a5cf6ed874d4b7cffc57c4607210fd&dn=Galactic%20Civilizations%20IV.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
       ],
       "uploadDate": "2024-06-24T08:29:00.000Z",
-      "fileSize": "100 GB"
+      "fileSize": "17.34 GB"
     },
     {
       "title": "Sins of a Solar Empire II (v.28.2.0) [RUNE] [DXVK/Proton/FSync] [LinuxRuleZ!] (2)",
@@ -466,12 +466,52 @@
       "fileSize": "15.22 GB"
     },
     {
-      "title": "Tavern Manager Simulator (2024) (v.1.0.7) [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "title": "DREDGE (2023) (v.1.5.1) + 3 DLC [Unity3D] [DOGE] [DXVK/Wine/FSync] [LinuxRuleZ!]",
       "uris": [
-        "magnet:?xt=urn:btih:ca7330a6de76ed350b7c39c833badb42b4893db8&dn=Tavern%20Manager%20Simulator.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+        "magnet:?xt=urn:btih:79dea9afbaaffc9173532ef6bd01f1bac4d0118b&dn=DREDGE.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
       ],
-      "uploadDate": "2024-08-26T08:30:00.000Z",
-      "fileSize": "860.5 MB"
+      "uploadDate": "2024-08-16T07:33:00.000Z",
+      "fileSize": "599.3 MB"
+    },
+    {
+      "title": "Karate Survivor (2024) (v.1.0.0.68) [Goldberg] [Wine] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:6f2476179db8af466c8623d2085d4fd66ce53608&dn=Karate%20Survivor.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-08-17T08:34:00.000Z",
+      "fileSize": "123.9 MB"
+    },
+    {
+      "title": "Diablo: Hellfire (devilutionX v.1.5.2) [GOG] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:586a45c28a7ec654975bd784c812fc6c847d239c&dn=Diablo%20%2B%20Hellfire%20devilutionX.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-08-16T07:28:00.000Z",
+      "fileSize": "1.13 GB"
+    },
+    {
+      "title": "MULLET MAD JACK (2024) (v.1.09) [Unity3D] [MULTi8] [TENOKE] [DXVK/Wine/FSync] [LinuxRuleZ]",
+      "uris": [
+        "magnet:?xt=urn:btih:62b117a2ad0fe0e6d321fe41bac6e096879bf11b&dn=MULLET%20MAD%20JACK.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-08-16T07:31:00.000Z",
+      "fileSize": "2.93 GB"
+    },
+    {
+      "title": "The Talos Principle 2: Road to Elysium (v.696260) + 2 DLC [MULTi12] [Unreal Engine 5] [RUNE] [VKD3D/Proton/FSync] [LinuxRuleZ!] 07:29",
+      "uris": [
+        "magnet:?xt=urn:btih:b194be1706090ec1013965c7a7dda7081e8292d4&dn=The%20Talos%20Principle%202.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-08-16T07:29:00.000Z",
+      "fileSize": "97.8 GB"
+    },
+    {
+      "title": "Dimensions (2024) [Unreal Engine 4] [TENOKE] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:94fa9f4e9deac416d8692654ed2e5e30bf3fd890&dn=Dimensions.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-08-17T08:33:00.000Z",
+      "fileSize": "35.15 GB"
     }
   ]
 }
