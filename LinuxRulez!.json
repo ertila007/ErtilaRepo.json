@@ -455,7 +455,7 @@
         "magnet:?xt=urn:btih:d221a2cad366dc1681d7cf5c51e726e2a5c73f04&dn=Coffee%20Caravan.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
       ],
       "uploadDate": "2024-08-18T08:39:00.000Z",
-      "fileSize": ""
+      "fileSize": "162.3 MB"
     },
     {
       "title": "Liftoff: FPV Drone Racing (v.1.6.5) + 3 DLC [MULTi3] [Unity3D] [Goldberg] [LinuxRuleZ!]",
@@ -464,6 +464,14 @@
       ],
       "uploadDate": "2024-08-18T08:39:00.000Z",
       "fileSize": "15.22 GB"
+    },
+    {
+      "title": "Tavern Manager Simulator (2024) (v.1.0.7) [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:ca7330a6de76ed350b7c39c833badb42b4893db8&dn=Tavern%20Manager%20Simulator.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-08-26T08:30:00.000Z",
+      "fileSize": "860.5 MB"
     }
   ]
 }
