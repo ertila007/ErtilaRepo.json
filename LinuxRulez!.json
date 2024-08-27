@@ -322,14 +322,6 @@
       "fileSize": "5.96 GB"
     },
     {
-      "title": "Songs of Conquest: Supporter Pack Bundle (2024) (v.1.2.0) [Unity3D] [RUNE] [DXVK/Proton/FSync] [LinuxRuleZ!]",
-      "uris": [
-        "magnet:?xt=urn:btih:c7ed242a469b5dcd4b6760b411c36796def34ebc&dn=Songs%20of%20Conquest.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
-      ],
-      "uploadDate": "2024-08-25T08:16:00.000Z",
-      "fileSize": "1.64 GB"
-    },
-    {
       "title": "LEGO Lord of the Rings (v.1.0 build 75536) [GOG] [Wine] [LinuxRuleZ!]",
       "uris": [
         "magnet:?xt=urn:btih:5fc971c9d4f06cba90068333e495969b066a4e70&dn=LEGO%20Lord%20of%20the%20Rings.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
@@ -568,6 +560,78 @@
       ],
       "uploadDate": "2024-08-15T09:35:00.000Z",
       "fileSize": "11.3 GB"
+    },
+    {
+      "title": "Norland (2024) (v.0.3972.5584.0) [RUNE] [Wine] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:5bc9608ff37464ded3d3eb82c8697a06190031f0&dn=Norland.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-08-15T09:36:00.000Z",
+      "fileSize": "702.2 MB"
+    },
+    {
+      "title": "Nickelodeon All-Star Brawl 2: Iroh Brawl Pack (v.1.12.0) + 7 DLC [Unity3D] [RUNE] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:26f0069cab17986eb73f90dc8a5f59d7504b09ad&dn=Nickelodeon%20All-Star%20Brawl%202.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-08-17T08:34:00.000Z",
+      "fileSize": "6.02 GB"
+    },
+    {
+      "title": "RC Revolution (2024) + Career Mode [Unity3D] [SKIDROW] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:a5913f9f4ed8edb2ef205ba6fc414a50f33131d7&dn=RC%20Revolution.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-08-18T08:38:00.000Z",
+      "fileSize": "2.21 GB"
+    },
+    {
+      "title": "Artifice War Tactics (2024) (v.1.0.7) [Unity3D] [TENOKE] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:039265becab8846d7624041deca702934e123e16&dn=Artifice%20War%20Tactics.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-08-17T08:35:00.000Z",
+      "fileSize": "3.52 GB"
+    },
+    {
+      "title": "Ancient Cities (v.1.0.3.8) [TENOKE] [Wine] [LinuxRuleZ!] ",
+      "uris": [
+        "magnet:?xt=urn:btih:1b8c26ab1224037f4ef7d29c9236a92d048923a2&dn=Ancient%20Cities.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-08-27T08:31:00.000Z",
+      "fileSize": "1.66 GB"
+    },
+    {
+      "title": "Starfield: Digital Premium Edition (v.1.13.61.0) + 5 DLC [RUNE] [VKD3D/Proton/FSync] [LinuxRuleZ!] 08:34",
+      "uris": [
+        "magnet:?xt=urn:btih:9f14b1ae800da5ff7a6cd572f1a02b0fb9f363e7&dn=Starfield.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-08-27T08:34:00.000Z",
+      "fileSize": "92.72 GB"
+    },
+    {
+      "title": "9-Bit Armies: A Bit Too Far (2024) (v.build 856409) [Unity3D] [RUNE] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:39ca1c78e92cda6d2dcba0a007645b4c55e89900&dn=9%20Bit%20Armies%20A%20Bit%20Too%20Far.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-08-27T08:34:00.000Z",
+      "fileSize": "2.69 GB"
+    },
+    {
+      "title": "Wartales: The Pits (v.1.0.36690) + 3 DLC [RUNE] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:ab2fcf90d3a5c2cf115f36512fd73e497bfdfe79&dn=Wartales.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-08-27T08:35:00.000Z",
+      "fileSize": "9.95 GB"
+    },
+    {
+      "title": "Songs of Conquest: Supporter Pack Bundle (2024) (v.1.2.1) [Unity3D] [RUNE] [DXVK/Proton/FSync] [LinuxRuleZ!] ",
+      "uris": [
+        "magnet:?xt=urn:btih:6d13f214eb995ca92e438a10d69141ff39729434&dn=Songs%20of%20Conquest.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-08-27T08:37:00.000Z",
+      "fileSize": "1.66 GB"
     }
   ]
 }
