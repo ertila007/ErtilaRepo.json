@@ -720,6 +720,46 @@
       ],
       "uploadDate": "2024-08-13T08:43:00.000Z",
       "fileSize": "272.7 MB"
+    },
+    {
+      "title": "Nevergrind Online (v.1.1.2) [Wine] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:2e0556168c6689a6389c0f21945d29e7d1f8af20&dn=Nevergrind%20Online.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-08-28T09:15:00.000Z",
+      "fileSize": "557.9 MB"
+    },
+    {
+      "title": "The Land of the Magnates (2024) (v.build 15067862) [Unreal Engine 4] [RUNE] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:a3e34f8b83e60a03a38c4dbf87865f4cb89af9f4&dn=The%20Land%20of%20the%20Magnates.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-08-28T09:14:00.000Z",
+      "fileSize": "6.88 GB"
+    },
+    {
+      "title": "Endzone 2 (2024) (v.0.8.9004.23998) [Unity3D] [Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:d31731f43b2fdd9dd9936314ed1843ae1188766f&dn=Endzone%202.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-08-28T09:12:00.000Z",
+      "fileSize": "3.16 GB"
+    },
+    {
+      "title": "Manor Lords (v.0.7.987) [Unreal Engine 4] [GOG] [DXVK/Proton/FSync] [LinuxRuleZ!] ",
+      "uris": [
+        "magnet:?xt=urn:btih:d63840eb7fee4d3d611d4b4e6d6847c80c4069fb&dn=Manor%20Lords.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-08-28T09:11:00.000Z",
+      "fileSize": "4.69 GB"
+    },
+    {
+      "title": "The Lord of the Rings: Return to Moria (v.1.3.2) [Unreal Engine 4] [RUNE] [VKD3D/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:eeaa91ce3db11c2db09e7235a4982ad31d8e31ad&dn=The%20Lord%20of%20the%20Rings%20Return%20to%20Moria.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-08-28T09:10:00.000Z",
+      "fileSize": "13.49 GB"
     }
   ]
 }
