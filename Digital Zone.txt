@@ -1,0 +1,19 @@
+{
+  "name": "Digital Zone",
+  "downloads": [
+    {
+      "title": "Mexico, 1921. A Deep Slumber. V17.09.2024 (Based on TENOKE Files) ~ ⎝⎝✧GͥOͣDͫ✧⎠⎠ ",
+      "uploadDate": "2024-09-16T20:59:04-03:00",
+      "fileSize": "7.47 GB",
+      "uris": [
+        "https://st1.ranoz.gg/yFvIMewV-M.1921.A.D.S.V17.09.2024.B15684931-GDZ.rar"
+      ]
+    },
+    {
+      "title": "Diluvian Ultra: Awakening V3.5.41 (Based on CSF of hal_butterchops) ~ ⎝⎝✧GͥOͣDͫ✧⎠⎠ ",
+      "uploadDate": "2024-09-16T21:59:51-03:00",
+      "fileSize": "826.95 MB",
+      "uris": ["https://pnode10.datanodes.to:8443/d/swmadufdkae5w4x3qlzga3gwuwd4326kycg6lzdvjiwbvlajsmlbzmr3li6lfgdri2qhumx7/D.U.A.V3.5.41.B15713139-GDZ.rar"]
+    }
+  ]
+}
