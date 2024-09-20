@@ -178,11 +178,11 @@
       "fileSize": "687.3 MB"
     },
     {
-      "title": "No Man's Sky: Aquarius (v.5.11) + Preorder DLC [GOG] [Proton/FSync] (No Mans Sky) [LinuxRuleZ!]",
+      "title": "No Man's Sky: Aquarius (v.5.12) + Preorder DLC [GOG] [Proton/FSync] (No Mans Sky) [LinuxRuleZ!]",
       "uris": [
         "magnet:?xt=urn:btih:d8a30cdc2be078595fd3b0d2b70900654e8f2dcf&dn=No%20Man%27s%20Sky.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
       ],
-      "uploadDate": "2024-09-12T09:26:00.000Z",
+      "uploadDate": "2024-09-19T07:21:00.000Z",
       "fileSize": "17.57 GB"
     },
     {
@@ -450,12 +450,12 @@
       "fileSize": "15.22 GB"
     },
     {
-      "title": "DREDGE (2023) (v.1.5.1) + 3 DLC [Unity3D] [DOGE] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "title": "DREDGE: The Iron Rig (v.1.5.3) + 6 DLC [Unity3D] [RUNE] [DXVK/Wine/FSync] [LinuxRuleZ!]",
       "uris": [
-        "magnet:?xt=urn:btih:79dea9afbaaffc9173532ef6bd01f1bac4d0118b&dn=DREDGE.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+        "magnet:?xt=urn:btih:5d886e1b3c9f00efcd19a8ac721a5b20b0a0651b&dn=DREDGE.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
       ],
-      "uploadDate": "2024-08-16T07:33:00.000Z",
-      "fileSize": "599.3 MB"
+      "uploadDate": "2024-09-19T07:23:00.000Z",
+      "fileSize": "1.07 GB"
     },
     {
       "title": "Karate Survivor (2024) (v.1.0.0.68) [Goldberg] [Wine] [LinuxRuleZ!]",
@@ -1296,6 +1296,54 @@
       ],
       "uploadDate": "2024-09-18T08:55:00.000Z",
       "fileSize": "3.23 GB"
+    },
+    {
+      "title": "BeamNG.drive (v.0.33.0.0.17111a) [DXVK/Proton/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:1a0474e9a672cfcfad8828c88f409ee2273e4929&dn=BeamNG.drive.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa77"
+      ],
+      "uploadDate": "2024-09-19T08:08:00.000Z",
+      "fileSize": "18.54 GB"
+    },
+    {
+      "title": "Tavern Manager Simulator (2024) (v.1.0.10 1) [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:8ac85d013801337d3fb8234f9ded02e44624f188&dn=Tavern%20Manager%20Simulator.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-19T07:25:00.000Z",
+      "fileSize": "865.8 MB"
+    },
+    {
+      "title": "Final Fantasy IX + Moguri Mod (v.5378074) [Unity3D] [CODEX] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:55838c8b2d7854c706a6adeb5ab88f80ff8d36c8&dn=Final%20Fantasy%20IX.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-19T07:24:00.000Z",
+      "fileSize": "9.44 GB"
+    },
+    {
+      "title": "Broken Sword - Shadow of the Templars: Reforged (2024) [Goldberg] [Wine] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:08ae091f2526e5014dc7aa2f6a07050ccf139b66&dn=Broken%20Sword%20Shadow%20of%20the%20Templars%20Reforged.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-19T07:24:00.000Z",
+      "fileSize": "6.97 GB"
+    },
+    {
+      "title": "X-Plane 12 (v.12.1.1) + 6 DLC [MULTi9] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:2d8acce4652740a971cef2c6f0e0af3687ca6b92&dn=X-Plane%2012.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-19T07:22:00.000Z",
+      "fileSize": "72.12 GB"
+    },
+    {
+      "title": "Construction Simulator 3 (2024) [Unity3D] [TiNYiSO] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:2d8acce4652740a971cef2c6f0e0af3687ca6b92&dn=X-Plane%2012.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-19T07:22:00.000Z",
+      "fileSize": "526.1 MB"
     },
     {
       "title": "Hero's Hour - Deluxe Edition (v.2.7.0) [MULTi] [Gamemaker] [TENOKE] [Wine] [LinuxRuleZ!] ",
