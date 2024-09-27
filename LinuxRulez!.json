@@ -514,12 +514,12 @@
       "fileSize": "760.4 MB"
     },
     {
-      "title": "Don't Starve Together (v.625420) [Goldberg Steam Emu] [LinuxRuleZ!]",
+      "title": "Don't Starve Together (v.632551) [Goldberg Steam Emu] [LinuxRuleZ!]",
       "uris": [
-        "magnet:?xt=urn:btih:a9f11602d55381b0a47dd7853dab92330b0d75d7&dn=Don%27t%20Starve%20Together.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+        "magnet:?xt=urn:btih:5f4010a23e8350fe5a3dc56cf4ef98f3829cc105&dn=Don%27t%20Starve%20Together.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
       ],
-      "uploadDate": "2024-08-15T09:40:00.000Z",
-      "fileSize": "2.35 GB"
+      "uploadDate": "2024-09-26T17:21:00.000Z",
+      "fileSize": "2.41 GB"
     },
     {
       "title": "State of Decay 2: Juggernaut Edition (v.Update 37.1 - build 15339756) + 3 Add-ons + 1 DLC [Unreal Engine 4] [CODEX] [DXVK/Proton/FSync] [LinuxRuleZ!] ",
@@ -754,11 +754,11 @@
       "fileSize": "13.49 GB"
     },
     {
-      "title": "Age of Mythology: Retold (2024) (v.100.17.30764.0) + 2 DLC [MULTi] [Goldberg] [VKD3D/Wine/FSync] [LinuxRuleZ!]",
+      "title": "Age of Mythology: Retold (2024) (v.100.17.31993.0) + 2 DLC [MULTi] [Goldberg] [VKD3D/Wine/FSync] [LinuxRuleZ!]",
       "uris": [
         "magnet:?xt=urn:btih:417e13e5a6754b38852c0c19edf437e9f7025f2c&dn=Age%20of%20Mythology%20Retold.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
       ],
-      "uploadDate": "2024-09-14T09:07:00.000Z",
+      "uploadDate": "2024-09-26T17:20:00.000Z",
       "fileSize": "10.01 GB"
     },
     {
@@ -1074,12 +1074,36 @@
       "fileSize": "25.89 GB"
     },
     {
-      "title": "Satisfactory (2024) (v.1.0.0.2) [Unreal Engine 4] [RUNE] [DXVK/Proton/FSync] [LinuxRuleZ!]",
+      "title": "Satisfactory (2024) (v.1.0.0.3) [Unreal Engine 4] [RUNE] [DXVK/Proton/FSync] [LinuxRuleZ!]",
       "uris": [
-        "magnet:?xt=urn:btih:039d21d176bd574d1cfaf3e2c4932ae6558f8287&dn=Satisfactory.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+        "magnet:?xt=urn:btih:fa9073992c4178862e4fa0c9354d0b0cb92da5ef&dn=Satisfactory.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
       ],
-      "uploadDate": "2024-09-23T07:43:00.000Z",
-      "fileSize": "10.7 GB"
+      "uploadDate": "2024-09-26T17:24:00.000Z",
+      "fileSize": "9.07 GB"
+    },
+    {
+      "title": "GreedFall II: The Dying World (v.build 15757967) [RUNE] [VKD3D/Proton/FSync] [LinuxRuleZ!] (2)",
+      "uris": [
+        "magnet:?xt=urn:btih:d2ea3aff5f193f29ed8501fe0e1d670441247457&dn=GreedFall%20II%20The%20Dying%20World.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-26T17:17:00.000Z",
+      "fileSize": "24.38 GB"
+    },
+    {
+      "title": "Builders of Greece (v.0.9.5 build 15791446) [Unity3D] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:d23395811d3f458e3d7de39ab7f034144aaec081&dn=Builders%20of%20Greece.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-26T17:16:00.000Z",
+      "fileSize": "4.00 GB"
+    },
+    {
+      "title": "theHunter: Call of the Wild - Scopes and Crosshairs Pack (v.2846103) + All 61 DLC [MULTi6] [TENOKE] [DXVK/Proton/FSync] (The Hunter) [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:ad0525287b0566b00a713abedea2c3d998898bc9&dn=theHunter%20Call%20of%20the%20Wild.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-26T17:22:00.000Z",
+      "fileSize": "47.03 GB"
     },
     {
       "title": "Stellaris: Cosmic Storms - Galaxy Edition (v.3.13.1 build 76545) + 29 DLC [MULTi] [GOG]",
@@ -1202,12 +1226,12 @@
       "fileSize": "84.7 GB"
     },
     {
-      "title": "Star Trucker (2024) (v.1.0.37.0) [Unity3D] [Goldberg] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "title": "Star Trucker (2024) (v.1.0.41.0) [Unity3D] [Goldberg] [DXVK/Wine/FSync] [LinuxRuleZ!]",
       "uris": [
         "magnet:?xt=urn:btih:454e10fb2133f187b4a9b849227951d560641cab&dn=Star%20Trucker.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
       ],
-      "uploadDate": "2024-09-04T09:24:00.000Z",
-      "fileSize": "4.15 GB"
+      "uploadDate": "2024-09-26T17:19:00.000Z",
+      "fileSize": "4.16 GB"
     },
     {
       "title": "Starcom: Unknown Space (2024) (v.build: Kepler 17318) [Unity3D] [TENOKE] [DXVK/Wine/FSync] [LinuxRuleZ!]",
